@@ -1,0 +1,18 @@
+
+================================================FreeSpace==================================================
+
+					   VERSION 1.0, 2011
+
+WARNING : Before you start using this software, make sure that you have read and fully understand the Disclaimer
+(can be found in Readme.txt).
+
+FreeSpace is a small and simple program for monitoring the usage of the computer's main hard drive (C:\).
+The parameters that appear on the FreeSpace main window are:
+
+	1 : Free Space Available : The hard drive space available for storing data in Gigabytes.
+
+	2 : Total Space Available : The total usable space of the hard drive in Gigabytes. 
+
+	3 : Total Free Space Available : The total usable space of the hard drive in Gigabytes.
+
+=========================================================================================================
